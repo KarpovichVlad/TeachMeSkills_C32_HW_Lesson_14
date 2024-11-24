@@ -1,6 +1,5 @@
 package com.teachmeckills.c32.hw.lesson_14;
 
-
 import com.teachmeckills.c32.hw.lesson_14.filehandler.FileProcessor;
 
 import java.util.Scanner;
